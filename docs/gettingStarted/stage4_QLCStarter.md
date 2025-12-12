@@ -1,6 +1,7 @@
 ---
 layout: default
-title: QLC Starter
+title: Stage 4 - QLC Starter
+parent: Getting Started
 nav_order: 4
 ---
 # Step 4 - QLC Starter

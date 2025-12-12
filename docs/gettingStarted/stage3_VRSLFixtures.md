@@ -1,6 +1,7 @@
 ---
 layout: default
-title: VRSL Fixtures
+title: Stage3 - VRSL Fixtures
+parent: Getting Started
 nav_order: 3
 ---
 

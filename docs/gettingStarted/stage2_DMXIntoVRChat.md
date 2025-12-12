@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Step 2 - Getting DMX into VRChat
+parent: Getting Started
 nav_order: 2
 ---
 # Step 2 - Getting DMX into VRChat

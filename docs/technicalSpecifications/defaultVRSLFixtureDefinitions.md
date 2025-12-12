@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VRSL Fixture Definitions
+parent: Technical Specifications
 nav_order: 99
 ---
 

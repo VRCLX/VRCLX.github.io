@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Step 1 - What is DMX?
+parent: Getting Started
 nav_order: 1
 ---
 
